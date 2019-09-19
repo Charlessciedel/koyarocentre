@@ -7215,7 +7215,7 @@ ul {
 
 .client-area .client-inner-area-right {
   padding: 100px 50px;
-  background: url(img/client/2.jpg);
+  /* background: url(img/client/2.jpg); */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -7229,9 +7229,9 @@ ul {
   }
 }
 
-.client-area .client-inner-area-right h2 {
-  color: #ffffff;
-}
+/* .client-area .client-inner-area-right h2 {
+  
+}color: #ffffff; */
 
 @media only screen and (max-width: 479px) {
   .client-area .client-inner-area-right h2 {
